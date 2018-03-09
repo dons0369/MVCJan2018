@@ -1,0 +1,86 @@
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\roslyn\csc.exe
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\roslyn\System.Collections.Immutable.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\roslyn\vbc.exe
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\roslyn\VBCSCompiler.exe
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\roslyn\VBCSCompiler.exe.config
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\MVCJan2018.dll.config
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\MVCJan2018.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\MVCJan2018.pdb
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\Antlr3.Runtime.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\Microsoft.Web.Infrastructure.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\Newtonsoft.Json.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.Helpers.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.Mvc.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.Optimization.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.Razor.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.WebPages.Deployment.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.WebPages.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.WebPages.Razor.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\WebGrease.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.Helpers.xml
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.Mvc.xml
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.Optimization.xml
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.Razor.xml
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.WebPages.xml
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.WebPages.Deployment.xml
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\System.Web.WebPages.Razor.xml
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\Antlr3.Runtime.pdb
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\bin\Newtonsoft.Json.xml
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\obj\Debug\MVCJan2018.csprojResolveAssemblyReference.cache
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\obj\Debug\MVCJan2018.dll
+D:\Rama\DotNet Training Material\Class Room Training\MVC\MVCJan2018\MVCJan2018\MVCJan2018\obj\Debug\MVCJan2018.pdb
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\roslyn\csc.exe
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\roslyn\System.Collections.Immutable.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\roslyn\vbc.exe
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\roslyn\VBCSCompiler.exe
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\roslyn\VBCSCompiler.exe.config
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\MVCJan2018.dll.config
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\MVCJan2018.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\MVCJan2018.pdb
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\Antlr3.Runtime.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\BusinessSerivice.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\EntityFramework.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\EntityFramework.SqlServer.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\Microsoft.Web.Infrastructure.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\Newtonsoft.Json.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.Helpers.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.Mvc.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.Optimization.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.Razor.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.WebPages.Deployment.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.WebPages.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.WebPages.Razor.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\WebGrease.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\BusinessSerivice.pdb
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\EntityFramework.xml
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\EntityFramework.SqlServer.xml
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.Helpers.xml
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.Mvc.xml
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.Optimization.xml
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.Razor.xml
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.WebPages.xml
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.WebPages.Deployment.xml
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\System.Web.WebPages.Razor.xml
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\Antlr3.Runtime.pdb
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\bin\Newtonsoft.Json.xml
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\obj\Debug\MVCJan2018.csprojResolveAssemblyReference.cache
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\obj\Debug\MVCJan2018.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\MVCJan2018\obj\Debug\MVCJan2018.pdb

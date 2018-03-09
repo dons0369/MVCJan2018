@@ -1,0 +1,16 @@
+﻿@model MVCJan2018.Models.Employee
+@{
+   ViewBag.Title = "Employee";
+   Layout = "~/Views/Shared/_HomeLayout.cshtml";
+   //Layout = "~/Views/Shared/_EmployeeLayout.cshtml";
+}
+<h2>Accessing ViewBag from Employee View: @ViewBag.Name</h2>
+<h2>Employee</h2>
+<p>Employee Id : @Model.Id</p>
+<p>Employee Name: @Model.Name</p>
+<p>Employee Email: @Model.Email</p>
+<p>Employee Address: @Model.Address</p>
+<p>Department ID: @Model.dept.Id</p>
+<p>Department Name: @Model.dept.Name</p>
+<p>Department Loc: @Model.dept.Location</p>
+

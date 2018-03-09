@@ -1,0 +1,5 @@
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\BusinessSerivice\bin\Debug\BusinessSerivice.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\BusinessSerivice\bin\Debug\BusinessSerivice.pdb
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\BusinessSerivice\obj\Debug\BusinessSerivice.dll
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\BusinessSerivice\obj\Debug\BusinessSerivice.pdb
+D:\Pragimtech\MVC\MVC Practice\ASPNETMVCJan2018-master 0127\ASPNETMVCJan2018-master\MVCJan2018\BusinessSerivice\obj\Debug\BusinessSerivice.csprojResolveAssemblyReference.cache

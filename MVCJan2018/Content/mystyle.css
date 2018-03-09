@@ -1,0 +1,31 @@
+﻿h3 {
+    color: red;
+    border: dotted;
+}
+
+p {
+    /*background-color: cadetblue;*/
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    border: 1px solid;
+    padding: 30px;
+    margin: 30px;
+}
+
+div {
+    border: 2px solid;
+    padding-top: 30px;
+    margin-top: 30px;
+}
+
+#mypara {
+    color: blue;
+}
+
+.paraclass {
+    color: forestgreen;
+}
+.borderclass
+{
+    border:2px solid;
+}

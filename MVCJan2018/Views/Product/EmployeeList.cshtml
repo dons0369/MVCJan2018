@@ -1,0 +1,19 @@
+﻿@model List<MVCJan2018.Models.Employee>
+
+@{
+    ViewBag.Title = "EmployeeList";
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+}
+<h2>EmployeeList</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+       <li>
+           <p>Emp Id : @item.Id</p>
+           <p>Emp Name: @item.Name</p>
+           <p>Emp Email: @item.Email</p>
+           <p>Emp Address: @item.Address</p>
+       </li>
+    }
+</ul>

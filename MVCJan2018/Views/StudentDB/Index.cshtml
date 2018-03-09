@@ -1,0 +1,32 @@
+﻿@model List<MVCJan2018.Models.Student>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+}
+<h2>Index</h2>
+@Html.ActionLink("Create", "Create")
+    <table class="table table-bordered table-striped">
+        <tr>
+            <td>Id</td>
+            <td>Name</td>
+            <td>Email</td>
+            <td>Address</td>
+            <td>Edit</td>
+            <td>Delete</td>
+        </tr>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Address</td>
+                <td>@Html.ActionLink("Edit", "Edit", new { id=item.Id})</td>
+                <td>@Html.ActionLink("Delete", "Delete", new { id = item.Id })</td>
+
+            </tr>
+            }
+    </table>
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>HomeLayout : @ViewBag.Name</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="SKRR" />
+    <meta name="description" content="This is Layout" />
+    <meta name="keywords" content="Layout, Common Layout" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    @*<script src="~/Scripts/bootstrap.min.js"></script>
+    <noscript>JavaScript is Not Supported</noscript>*@
+    @Styles.Render("~/bundle/style")
+
+</head>
+<body>
+    <div><b>This is Layout Header</b></div>
+    <p>@Html.ActionLink("Logout", "Logout", "Account")</p>
+    <h3>_HomeLayout</h3>
+    @RenderBody()
+    <div><b>This is Layout Footer</b></div>
+
+@Scripts.Render("~/bundle/script")
+</body>
+</html>

@@ -1,0 +1,31 @@
+﻿
+@*@{
+    ViewBag.Title = "Variables";
+}*@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Variables</title>
+    <meta charset="utf-8"/>
+    <meta name="author" content="HareKrsna" />
+    <meta name="description" content="Variables" />
+    <meta name="keywords" content="ViewData, ViewBag, TempData" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <noscript>JavaScript Is Not Supported</noscript>
+
+</head>
+<body>
+    <h2>Variables</h2>
+
+    <h3>ViewData</h3>      
+    <p>Name is : @ViewData["Name"]</p>
+    <p>Emai is : @ViewData["Email"]</p>
+    <p>Date is : @(((DateTime)ViewData["Date"]).DayOfWeek)</p>
+           
+    <h3>ViewBag</h3>      
+    <p>Name  is : @ViewBag.Name</p>
+    <p>Email is : @ViewBag.Email</p>
+    <p>Date  is : @ViewBag.Date.DayOfWeek</p>
+    
+</body>
+</html>

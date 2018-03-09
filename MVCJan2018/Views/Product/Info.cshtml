@@ -1,0 +1,68 @@
+﻿<!DOCTYPE Html>
+<html>
+<head>
+    <title>HareKrsna</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="SKRR" />
+    <meta name="description" content="MyPage" />
+    <meta name="keywords" content="Html, Html5, CSS, C#MVC" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <noscript>JavaScript is not Supported</noscript>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <div><b>This is Layout Header from Info</b></div>
+    <h3>_HomeLayout</h3>
+    <h2>Product Info</h2>
+    <table class="table table-striped">
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+        </tr>
+        <tr>
+            <td>HondaCRV</td>
+            <td>Good Vehicle</td>
+            <td>$30,000</td>
+        </tr>
+        <tr>
+            <td>MacBookPro</td>
+            <td>Good Laptop</td>
+            <td>$2,500</td>
+        </tr>
+        <tr>
+            <td>Iphone6.5</td>
+            <td>Good Phone</td>
+            <td>$1,000</td>
+        </tr> 
+    </table>
+
+    <h2>Variables</h2>
+
+    <h3>ViewData</h3>
+    <p>Name is : @ViewData["dName"]</p>
+    <p>Emai is : @ViewData["dEmail"]</p>
+    <p>Date is : @(((DateTime)ViewData["dDate"]).DayOfWeek)</p>
+
+    <h3>ViewBag</h3>
+    <p>Name  is : @ViewBag.bName</p>
+    <p>Email is : @ViewBag.bEmail</p>
+    <p>Date  is : @ViewBag.bDate.DayOfWeek</p>
+
+    <h2>Html.Partial & Html.RenderPartial calls Partial Views within Views</h2>
+    @Html.Partial("_ProductPartial")
+    @{ Html.RenderPartial("_ProductPartial");}
+
+   <h2>Html.Action & Html.RenderAction calls other Views within Views</h2>
+    @Html.Action("RazorView")
+    @{ Html.RenderAction("RazorView");}
+
+    @*If calling a View from Different Controller then 2nd paramter is needed.*@
+    <h2>Contact from Home Controller</h2>
+    @Html.Action("Contact", "Home")
+    @{ Html.RenderAction("Contact", "Home");}
+
+</body>
+</html>

@@ -1,0 +1,111 @@
+﻿@using MVCJan2018.Infrastructure
+
+@{ string title = "Razor View"; }
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@title</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="HTML Tutorials">
+    <meta name="keywords" content="HTML,CSS">
+    <meta name="author" content="Rama">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <noscript> JavaScript is not supported </noscript>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</head>
+<body>
+    <h1>RAZOR VIEW</h1>
+    @{
+       string name = "pragim";
+       int id = 100;
+       int newid = id + 100;
+       bool showData = false;
+       string[] names = { "rama", "siva", "krishna", "vishnu" };
+    }
+    <p>Institute name:@name and id:@newid</p>
+    @if (showData)
+    {
+    <p>Condition is true</p>
+    }
+    else
+    {
+    <p>Condition is false @@</p>
+    }
+    <p>Incremented Id value@(newid + 100)</p>
+
+    @*This is foreach loop to print names
+        second comment
+    *@
+    <ul>
+        @foreach (var item in names)
+        {
+        <li>@item</li>
+        }
+    </ul>
+    <h2>HTML Helpers</h2>
+    <input type="text" id="txtid" value="rama" /><br />
+
+    @Html.TextBox("txtName", "HareKrnsa")<br />
+    @Html.TextArea("txtArea")<br />
+    @Html.Hidden("hdnField", "Secret Msg for Dev")<br />
+
+    @Html.RadioButton("rdbGender", "Yes")Yes<br />
+    @Html.RadioButton("rdbGender", "No")No<br />
+
+    @Html.ActionLink("Go to Info", "info", "product")<br />
+    <br />
+    <br />
+
+    @*@CustomHTMLHelper.LabelWithBold("HareKrishna")<br />
+    <br /><br />
+    @Html.LabelWithBoldHTML("HareRama")<br />
+
+    @LabelWithBoldHelper("In LINE Helper")
+
+
+
+    @helper LabelWithBoldHelper(string content)
+    {   
+        <label><bold>@content</bold></label>
+   }
+    <br />*@
+
+    <h2>RAZOR VIEW 2</h2>
+    @{ 
+       int myid = 100;
+       string mystring = "Pragim";
+       int mynewid = myid + 100;
+       bool mybool = true;
+       string[] mynames = { "Hare Krsna  Hare Krsna", "Krsna Krsna  Hare Hare", "Hare Rama  Hare Rama", "Rama Rama  Hare Hare", };
+
+    }
+
+    <p>Institute is @mystring and Myid is @myid</p>
+    <p>Mynewid is @mynewid</p>
+    <p>This Inline Expression Incremented Value is @(mynewid+100)</p>
+
+    @if (mybool)
+    {
+       <p>Mybool is true @@</p>
+    }
+    else
+    {
+       <p>Mybool is false @@</p>
+    }
+
+    @*Commenting 
+        Accessing all the Values from the Array string*@
+    <ul>
+        @foreach (var item in mynames)
+        {
+        <li>@item</li>
+        }
+    </ul>
+
+    <h2>PARTIAL VIEW _PRODUCTPARTIAL</h2>
+    @Html.Partial("_ProductPartial")
+
+
+</body>
+</html>

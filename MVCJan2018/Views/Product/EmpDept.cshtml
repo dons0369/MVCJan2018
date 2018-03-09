@@ -1,0 +1,15 @@
+﻿@model MVCJan2018.Models.EmpDept
+@{
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+}
+<h2>Accessing ViewBag from EmpDept View : @ViewBag.Name</h2>
+<h2>EmpDept</h2>
+    <p>Emp Id : @Model.emp.Id</p>
+    <p>Emp Name : @Model.emp.Name</p>
+    <p>Emp Email : @Model.emp.Email</p>
+    <p>Emp Address : @Model.emp.Address</p>
+    <p>Dept Id : @Model.dept.Id</p>
+    <p>Dept Name : @Model.dept.Name</p>
+    <p>Dept Location : @Model.dept.Location</p>
+
+
